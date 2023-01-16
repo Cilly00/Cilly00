@@ -16,4 +16,4 @@
 
 
 ### :man_technologist: About Me :
-I am currently studying the Certificate IV in Cyber Security at TAFE <img src="https://media.giphy.com/media/xUS4Fp5i6iIn2Y1EYT/giphy.gif" width="30"> in Australia.
+I am currently studying the Certificate IV in Cyber Security <img src="https://media.giphy.com/media/xUS4Fp5i6iIn2Y1EYT/giphy.gif" width="30"> at TAFE in Australia.
