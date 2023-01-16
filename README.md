@@ -17,4 +17,6 @@
 
 ### :man_technologist: About Me :
 I am currently studying the Certificate IV in Cyber Security <img src="https://media.giphy.com/media/xUS4Fp5i6iIn2Y1EYT/giphy.gif" width="30"> at TAFE in Australia.
+- :sunglasses: Full-time student in Cyber Security.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="20">  Learning to code in Python.
+- 
