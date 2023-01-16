@@ -9,8 +9,7 @@
 </h1>
 </div>
 <div id="social" align="center">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="centre">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cill%c3%a9in-maccarthy-b527951ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cill%c3%a9in-maccarthy-b527951ba/" height="30" width="40" /></a>
 </p>
   </div>
